@@ -24,7 +24,7 @@ class CurbYourAnswers {
     
   }
   
-  // Finds the enharmonic equivalent of a # note
+  // Finds the enharmonic equivalent of the # notes
   public String checkEquivalent(String note) {
     
     switch(note) {
