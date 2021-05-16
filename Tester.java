@@ -20,6 +20,8 @@ public class Tester {
     //g.printNote(4,6);
     //g.printNote(3,9);
     
+    System.out.println("\t1\t2\t3\t4");
+    System.out.println("\t\\/\t/\\\t\\/\t\\/");
     while (true) {
       if (tally > 10)
         break;
